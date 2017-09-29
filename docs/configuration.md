@@ -41,8 +41,9 @@ If your service works with custom URLs, just leave this empty.
 {
     "serviceURL": "https://www.messenger.com"
 }
+
 {
-    "serviceURL": "https://.slack.com"
+    "serviceURL": "https://{teamID}.slack.com"
 }
 ```
 * `string` **serviceName**<br/>
