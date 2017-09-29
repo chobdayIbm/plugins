@@ -42,12 +42,7 @@ If your service works with custom URLs, just leave this empty.
     "serviceURL": "https://www.messenger.com"
 }
 ```
-<br />
-```json
-{
-    "serviceURL": "https://{teamID}.slack.com"
-}
-```
+
 * `string` **serviceName**<br/>
 Display name of the service.
 * `array` **popup**<br/>
